@@ -1,0 +1,17 @@
+{
+    "name": "niten/mvc",
+    "autoload": {
+        "psr-4": {
+            "app\\":"./"
+            
+            
+        }
+    },
+    "authors": [
+        {
+            "name": "NitenSapkota175",
+            "email": "nitensapkota1705@gmail.com"
+        }
+    ],
+    "require": {}
+}
